@@ -13,7 +13,7 @@ HyperKit is the open infrastructure platform powering modular, AI‑native dApps
 ### Key Features
 
 - **Multi‑Chain SDK**: Unified toolkit for Ethereum, Hyperion, Metis, Mantle, Solana, and Sui, with seamless deployment, contract management, and cross‑chain bridging.
-- **AI‑Native Automation**: HyperAgent orchestrates the entire smart contract lifecycle—from natural language prompts to audited, deployed contracts—with built‑in LLM support for planning, codegen, and testing.
+- **AI‑Native Automation**: HyperAgent orchestrates the entire smart contract lifecycle from natural language prompts to audited, deployed contracts with built‑in LLM support for planning, codegen, and testing.
 - **Developer Experience**: CLI, React component library, and opinionated templates for fast onboarding and prototyping.
 
 ### Getting Started
