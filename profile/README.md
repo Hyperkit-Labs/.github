@@ -24,9 +24,9 @@ cd my-dapp
 npm run dev
 ```
 
-- [SDK Documentation](https://docs.hyperkitlabs.com)
-- [HyperAgent Guide](https://docs.hyperkitlabs.com/agent)
-- [Example dApps](https://github.com/HyperionKit/hyperkit-examples)
+- [SDK Documentation](https://docs.hyperionkit.xyz/)
+- [HyperAgent Guide](https://docs.hyperionkit.xyz/hyperagent)
+- [Example dApps](https://github.com/HyperkitKit-labs/examples)
 
 ### Why HyperKit?
 
